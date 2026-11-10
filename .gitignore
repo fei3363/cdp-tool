@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.png
+*.jpg
+.env
+dist/
+build/
+*.spec
+chrome_profile/
+chrome_debug_profile/
