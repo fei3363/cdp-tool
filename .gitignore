@@ -9,3 +9,4 @@ build/
 *.spec
 chrome_profile/
 chrome_debug_profile/
+node_modules/
